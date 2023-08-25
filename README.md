@@ -10,7 +10,7 @@ Backend: PianistaPiano<br> <br>
 Using this project you get website where you can create account and make quizes and flashcards. This website have veryfication system using email.
 In folder #Clear_Quiz_SQL is empty database.
 
-# How aplly email to sends veryfications
+# How apply email to send veryfications
 Go to functions_PHP.php file and change Username, password and setFrom attributes. <br>
 ![obraz](https://github.com/PianistaPiano/quiz-website-TI-project/assets/76052736/31f4aaad-5c21-48a8-8c4e-f9479667707e) <br>
 
